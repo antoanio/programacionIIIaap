@@ -1,12 +1,11 @@
-int N, A, D, U, C;
- string linea;
- Console.WriteLine ("INGRESE NÚMERO DE TRES CIFRAS :");
- linea = Console.ReadLine();
- N = int.Parse(linea);
- C = N /100;
- N = N % 100;
- D = N/10;
- U = N % 10;
- A = (U * 100) + (D*10) + C;
- Console.WriteLine("NÚMERO INVERTIDO ES: " + A);
- Console.WriteLine("Pulse una Tecla:"); Console.ReadLine();
+
+            string a1 = "", a2 = "";
+            Console.WriteLine("Escribe la frase a invertir ");
+            a1 = Console.ReadLine();
+            for (int i = a1.Length - 1; i >= 0; i--)
+
+            {
+                a2 += a1[i];
+            }
+            Console.WriteLine("frase invertida " + a2);
+            Console.ReadKey();
