@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parqueo.Movil", "Parqueo.Movil\Parqueo.Movil.csproj", "{9523BC99-12C7-46DB-AEC4-FE3C04CA3971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9523BC99-12C7-46DB-AEC4-FE3C04CA3971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9523BC99-12C7-46DB-AEC4-FE3C04CA3971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9523BC99-12C7-46DB-AEC4-FE3C04CA3971}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9523BC99-12C7-46DB-AEC4-FE3C04CA3971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9523BC99-12C7-46DB-AEC4-FE3C04CA3971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9523BC99-12C7-46DB-AEC4-FE3C04CA3971}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61767D98-9444-4C57-908C-A22E715876D4}
+	EndGlobalSection
+EndGlobal
